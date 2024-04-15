@@ -15,6 +15,7 @@ import {Button, CardActionArea, CardActions} from "@mui/material";
 
 function Cards(props) {
   // console.log(props)
+  
 
   return (
     <>
@@ -38,22 +39,22 @@ function Cards(props) {
           <a href={props.email} target="_blank">
             <Button variant="contained" sx={{'& svg': {marginRight: '5px'},bgcolor:'white', color:'black'}} ><IoMail size={18} />Email</Button>
           </a>
-        )}
+         )}
           {props.linkedin && (
           <a href={props.linkedin} target="_blank">
-            <Button variant="contained" sx={{"& svg":{marginRight:'5px'}, }} ><BsLinkedin size={15}/> LinkedIn</Button>
+            <Button variant="contained" sx={{"& svg":{marginRight:'5px'}  }} ><BsLinkedin size={15}/> LinkedIn</Button>
           </a>
-        )}
+         )}
         </Stack>
-        <CardContent sx={{height:'300px'}}>
+        <CardContent sx={{height:'270px', }}>
           <Typography variant="h6">About</Typography>
-          <Typography>{props.about}</Typography>
+          <Typography variant="body2">{props.about}</Typography>
           <br />
           </CardContent>
 
-          <CardContent >
+          <CardContent  >
           <Typography variant="h6">Interest</Typography>
-          <Typography>{props.interest}</Typography>
+          <Typography variant="body2">{props.interest}</Typography>
           </CardContent>
           
           <Box sx={{bgcolor:'#263238', height:'50px',display:'flex', justifyContent:'space-evenly', alignItems:'center', }}>

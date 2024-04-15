@@ -16,7 +16,7 @@ const profileData =[
         title: "Pythonista | Backend Engineer ",
         // linkedin: "https://www.linkedin.com/in/meer-khan/",
         email:"shahmirkhan519@gmail.com",
-        about :"lorem inspiring and retaining varying teams of up to 75 FTEs (software development, quality and DevOps) with different cultural backgrounds.quality and DevOps) with different cultural backgrounds.quality and DevOps) with different cultural backgrounds.",
+        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development,",
         interest: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci consectetur dolorum! Dolor architecto incidunt suscipit modi deleniti, possimus cumque, tenetur quaerat ea soluta, molestias hic quasi? Provident, labore minus.",
     },
     {
@@ -36,7 +36,7 @@ const profileData =[
         title: "Software Quality Assurance Engineer",
         linkedin: "https://www.linkedin.com/in/fazle-yazdan/",
         email:"fazleyazdan345@gmail.com",
-        about :"Experienced Software Quality Assurance Engineer proficient in manual and automation testing. Skilled in Python & JavaScript. Expertise includes Manual & Automation Testing Database & API Testing UI & Cross Browser Testing",
+        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development,",
         interest: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci consectetur dolorum! Dolor architecto incidunt suscipit modi deleniti, possimus cumque, tenetur quaerat ea soluta, molestias hic quasi? Provident, labore minus.",
     },
     {
@@ -46,7 +46,7 @@ const profileData =[
         title: "SQA Engineer | Code Analyzer",
         linkedin: "https://www.linkedin.com/in/raiha-n-7199a9187/",
         email:"imraiha18@gmail.com",
-        about :"My attention to detail and excellent problem-solving skills ensure that every project I work on is done accurately and to the highest possible standard. My verbal communication skills and positive attitude makes me an effective communicator with all my clients.",
+        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development,",
         interest: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci consectetur dolorum! Dolor architecto incidunt suscipit modi deleniti, possimus cumque, tenetur quaerat ea soluta, molestias hic quasi? Provident, labore minus.",
     },
     {
@@ -56,7 +56,7 @@ const profileData =[
         title: "Software Engineer | QA Best Practices",
         // linkedin: "https://www.linkedin.com/in/fazle-yazdan/",
         email:"jawad.jk245@gmail.com",
-        about :"I am a results-driven Software Engineer specializing in Quality and Audit, adept in Test Team Leadership, Code Compliance & Audit, Test Planning and Execution, and Quality Assurance Best Practices",
+        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development,",
         interest: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci consectetur dolorum! Dolor architecto incidunt suscipit modi deleniti, possimus cumque, tenetur quaerat ea soluta, molestias hic quasi? Provident, labore minus.",
     },
     {
@@ -66,7 +66,7 @@ const profileData =[
         title: "Python Backend Developer",
         linkedin: "https://www.linkedin.com/in/uzzaykhan/",
         email:"uk78618@gmail.com",
-        about :"👋 Hi there! I'm Hafiz Muhammad Uzair Khan, a Python AI and ML Engineer. I'm passionate about crafting technology solutions that bridge the gap between innovation and real-world impact.",
+        about :"👋 Hi there!A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development,",
         interest: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci consectetur dolorum! Dolor architecto incidunt suscipit modi deleniti, possimus cumque, tenetur quaerat ea soluta, molestias hic quasi? Provident, labore minus.",
     },
     {
@@ -76,7 +76,7 @@ const profileData =[
         title: "Linux System and DevOps Engineer",
         // linkedin: "https://www.linkedin.com/in/muhammad-kamran-1612802b1/",
         email:"hinakami068@gmail.com",
-        about :"Over the past four years as a DevOps engineer specializing in Linux and cloud technologies, I've amassed a wealth of experience in orchestrating seamless integration between development and operations. My focus has been on optimizing workflows through automation,",
+        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development,",
         interest: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci consectetur dolorum! Dolor architecto incidunt suscipit modi deleniti, possimus cumque, tenetur quaerat ea soluta, molestias hic quasi? Provident, labore minus.",
     }
     ,
