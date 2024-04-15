@@ -5,8 +5,8 @@ const profileData =[
         name: "Shurjeel Tousif",
         title: "Software Engineering Leader | Entrepreneur",
         linkedin: "https://www.linkedin.com/in/shurjeeltousif/",
-        // email:"shurjeel.tousif@hotmail.co.uk",
-        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development, quality and DevOps) with different cultural backgrounds.",
+        email:"shurjeel.tousif@hotmail.co.uk",
+        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development, ",
         interest: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci consectetur dolorum! Dolor architecto incidunt suscipit modi deleniti, possimus cumque, tenetur quaerat ea soluta, molestias hic quasi? Provident, labore minus.",
     },
     {
@@ -16,7 +16,7 @@ const profileData =[
         title: "Pythonista | Backend Engineer ",
         // linkedin: "https://www.linkedin.com/in/meer-khan/",
         email:"shahmirkhan519@gmail.com",
-        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development, quality and DevOps) with different cultural backgrounds.",
+        about :"lorem inspiring and retaining varying teams of up to 75 FTEs (software development, quality and DevOps) with different cultural backgrounds.quality and DevOps) with different cultural backgrounds.quality and DevOps) with different cultural backgrounds.",
         interest: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci consectetur dolorum! Dolor architecto incidunt suscipit modi deleniti, possimus cumque, tenetur quaerat ea soluta, molestias hic quasi? Provident, labore minus.",
     },
     {
@@ -26,7 +26,7 @@ const profileData =[
         title: "Software Engineer | React.js ",
         linkedin: "https://www.linkedin.com/in/mianarsalan20/",
         // email:"mianarsalan20@gmail.com",
-        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development, quality and DevOps) with different cultural backgrounds.",
+        about :"A creative, results-driven, technology executive with a strong academic background and 18 years of multi-industry experience working for the international technology companies in the world using AGILE, SCRUM and SAFE software development lifecycle concepts with the last 10 years developing, managing, inspiring and retaining varying teams of up to 75 FTEs (software development, ",
         interest: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum adipisci consectetur dolorum! Dolor architecto incidunt suscipit modi deleniti, possimus cumque, tenetur quaerat ea soluta, molestias hic quasi? Provident, labore minus.",
     },
     {
